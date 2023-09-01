@@ -1,4 +1,4 @@
-package com.newbeegpt.demo.response;
+package io.github.neweegpt.response;
 
 /**
  * @author newbeegpt

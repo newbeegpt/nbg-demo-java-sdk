@@ -1,8 +1,8 @@
-package com.newbeegpt.demo;
+package io.github.neweegpt;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.newbeegpt.demo.response.ApiResponse;
+import io.github.neweegpt.response.ApiResponse;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.http.HttpEntity;

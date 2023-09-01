@@ -1,7 +1,7 @@
-package com.newbeegpt.demo;
+package io.github.neweegpt;
 
 import com.fasterxml.jackson.core.type.TypeReference;
-import com.newbeegpt.demo.response.ApiResponse;
+import io.github.neweegpt.response.ApiResponse;
 
 import java.util.HashMap;
 import java.util.Map;
